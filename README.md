@@ -53,8 +53,7 @@ This project integrates with OpenAI GPT-3 using the MagicLoop platform to handle
 
 ## 📲 Live Demo
 
-👉 [View it on Netlify](https://your-site-name.netlify.app)  
-*(Replace the link after deployment)*
+👉 [AI Study Assistant]((https://ai-study-assistants.netlify.app/)) 
 
 ---
 
@@ -83,5 +82,6 @@ This project integrates with OpenAI GPT-3 using the MagicLoop platform to handle
 
 Feel free to reach out for collaborations or feedback!
 
-**Your Name**  
-[Your GitHub](https://github.com/yourusername) • [Your Email or LinkedIn]
+Parth Bhuptani
+[Your GitHub](https://github.com/parthbhuptani10) 
+• [Email] parthbhuptani2@gmail.com
